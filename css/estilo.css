@@ -1,0 +1,9 @@
+*{
+    margin: 100px;
+    background-color: black;
+}
+.sobre{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-size: 20px;
+}
